@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.html text encoding=utf-8
+*.js text encoding=utf-8
+*.json text encoding=utf-8
+*.toml text encoding=utf-8
+*.md text encoding=utf-8
+_headers text encoding=utf-8
+.gitignore text encoding=utf-8
